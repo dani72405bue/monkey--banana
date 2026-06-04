@@ -1,0 +1,11 @@
+ANCHO_PANTALLA = 800
+ALTO_PANTALLA = 600
+COLOR_FONDO = (135, 206, 235)
+TIEMPO_NUEVA_BANANA = 90  # frames hasta que cae otra banana
+VELOCIDAD_MONO = 6
+VELOCIDAD_BANANA = 4
+RUTA_IMAGEN_MONO = "assets/images/mono.png"
+RUTA_IMAGEN_BANANA = "assets/images/banana.png"
+RUTA_SONIDO_MONO = "assets/sounds/freesound_community-stick-hitting-a-dreadlock-small-thud-83297.mp3"
+RUTA_SONIDO_BANANA = "assets/sounds/freesound_community-stick-hitting-a-dreadlock-small-thud-83297.mp3"
+RUTA_SONIDO_PERDIO = "assets/sounds/perdio.mp3"
